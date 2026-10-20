@@ -19,4 +19,5 @@ Repositori ini dibuat untuk memenuhi tugas mata kuliah Informatics Practitioner 
 6. Data Analysis & AI (`data_analysis.py`)
    Materi: Make Sense of Data with Analysis and AI (Andria Arisal, M.Eng. - Senior Researcher BRIN).
    Deskripsi: Simulasi tahapan Data Preparation (pembersihan data kosong) hingga analisis deskriptif dan prediktif.
+
    Annisa Rohiimah Sufriyani (G1A025013)
